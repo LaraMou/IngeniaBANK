@@ -1,0 +1,12 @@
+@import url('./views/main-view.css');
+@import url('./views/inicio-view.css');
+@import url('./views/about-view.css');
+@import url('./views/card-list-view.css');
+@import url('./views/cuentas-view.css');
+@import url('./views/tarjetas-view.css');
+@import url('./views/movimientos-view.css');
+@import url('./views/balance-view.css');
+@import url('lumo-css-framework/all-classes.css');    html {
+      --lumo-primary-color: hsl(228, 90%, 52%);
+
+    }
